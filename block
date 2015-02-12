@@ -1,0 +1,3 @@
+str_ireplace(@hotmail.com)
+str_ireplace(@hotmail.co.uk)
+str_ireplace(@yahoo.com)
