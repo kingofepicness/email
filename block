@@ -8,5 +8,9 @@ str_ireplace(@aol.co.uk)
 str_ireplace(@aol.com)
 str_ireplace(@my.com)
 str_ireplace(@icloud.com)
+str_ireplace(@me.com)
+str_ireplace(@apple.com)
+str_ireplace(@outlook.com)
+str_ireplace(@outlook.co.uk)
 
 
