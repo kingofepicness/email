@@ -15,5 +15,5 @@ str_ireplace(@outlook.co.uk)
 str_ireplace(@bt.com)
 str_ireplace(@btinternet.com)
 str_ireplace(@talktalk.net)
-
-
+str_ireplace(@apple.com)
+str_ireplace(@mail.com)
