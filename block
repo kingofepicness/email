@@ -1,3 +1,12 @@
 str_ireplace(@hotmail.com)
 str_ireplace(@hotmail.co.uk)
 str_ireplace(@yahoo.com)
+str_ireplace(@yahoo.co.uk)
+str_ireplace(@gmail.com)
+str_ireplace(@gmail.co.uk)
+str_ireplace(@aol.co.uk)
+str_ireplace(@aol.com)
+str_ireplace(@my.com)
+str_ireplace(@icloud.com)
+
+
